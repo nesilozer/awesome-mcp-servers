@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-loudreader-loudkit-788794b9",
+  "source": {
+    "issue": 2310,
+    "projectUrl": "https://github.com/loudreader/loudkit"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any stdio MCP client (Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Cline)"
+  ],
+  "license": "Apache-2.0"
+}
